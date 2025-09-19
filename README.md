@@ -1,14 +1,14 @@
- Fullstack Scheduling Calendar SaaS Platform - Clock-In
+Fullstack Scheduling Calendar SaaS Platform - Clock-In
 Key Features:
-Easy Sign-Up & Login (Using JWT Authentication)
-Create Events (Public or Private)
-Share Booking Link (Clients Book Instantly!)
-Set Your Availability & Time Slots (No Double-Booking!)
-Custom-Built Calendar
-Integration & Apps (Google Meet & Calendar)
-Track Upcoming, Past & Canceled Meetings
-Built with: Node.js, TypeORM, PostgreSQL, React.js
-Tailwind  & Shadcn-ui
+-- Easy Sign-Up & Login (Using JWT Authentication)
+-- Create Events (Public or Private)
+-- Share Booking Link (Clients Book Instantly!)
+-- Set Your Availability & Time Slots (No Double-Booking!)
+-- Custom-Built Calendar
+-- Integration & Apps (Google Meet & Calendar)
+-- Track Upcoming, Past & Canceled Meetings
+-- Built with: Node.js, TypeORM, PostgreSQL, React.js
+-- Tailwind  & Shadcn-ui
 
 ---
 Tools & Technologies:
