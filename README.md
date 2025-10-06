@@ -1,7 +1,9 @@
-Fullstack Scheduling Calendar SaaS Platform - Clock-In
+**Fullstack Scheduling Calendar SaaS Platform - Clock-In**
+Clock-In is an event management app to book appointments and schedule meetings.
+
 Key Features:
 -- Easy Sign-Up & Login (Using JWT Authentication)
--- Create Events (Public or Private)
+-- Create Events 
 -- Share Booking Link (Clients Book Instantly!)
 -- Set Your Availability & Time Slots (No Double-Booking!)
 -- Custom-Built Calendar
